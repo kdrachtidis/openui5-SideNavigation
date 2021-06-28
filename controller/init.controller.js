@@ -7,7 +7,7 @@ sap.ui.define([
 ], function (jQuery, Controller, JSONModel, ResponsivePopover, Button) {
   "use strict";
 
-  var Controller = Controller.extend("UI5FioriForTools.controller.init", {
+  var Controller = Controller.extend("DemoUXapp.controller.init", {
     model: new sap.ui.model.json.JSONModel(),
     data: {
       navigation: [{

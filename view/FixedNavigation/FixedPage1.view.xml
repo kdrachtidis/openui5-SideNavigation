@@ -1,4 +1,4 @@
-<mvc:View controllerName="UI5FioriForTools.controller.FixedNavigation.FixedPage1" 
+<mvc:View controllerName="DemoUXapp.controller.FixedNavigation.FixedPage1" 
   height="100%" 
   xmlns:mvc="sap.ui.core.mvc" 
   xmlns="sap.m">

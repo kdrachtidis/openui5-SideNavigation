@@ -3,7 +3,7 @@ sap.ui.define([
 ], function(Controller) {
     "use strict";
 
-    var Controller = Controller.extend("UI5FioriForTools.controller.FixedNavigation.FixedPage2");
+    var Controller = Controller.extend("DemoUXapp.controller.FixedNavigation.FixedPage2");
 
     return Controller;
 });

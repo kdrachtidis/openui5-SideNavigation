@@ -1,12 +1,12 @@
-<mvc:View controllerName="UI5FioriForTools.controller.MainNavigation.MainPage" 
-  height="100%" 
-  xmlns:mvc="sap.ui.core.mvc" 
-  xmlns:core="sap.ui.core" 
+<mvc:View controllerName="DemoUXapp.controller.MainNavigation.MainPage"
+  height="100%"
+  xmlns:mvc="sap.ui.core.mvc"
+  xmlns:core="sap.ui.core"
   xmlns="sap.m">
-  <Page class="sapUiContentPadding" 
+  <Page class="sapUiContentPadding"
     title="Home">
     <content>
-<!-- Place content here-->
+      <!-- Place content here-->
     </content>
   </Page>
 </mvc:View>

@@ -4,7 +4,7 @@ sap.ui.define([
 	"sap/ui/model/resource/ResourceModel"
 ], function (UIComponent, JSONModel, ResourceModel) {
 	"use strict";
-	return UIComponent.extend("UI5FioriForTools.Component", {
+	return UIComponent.extend("DemoUXapp.Component", {
 		metadata: {
 			manifest: "json"
 		},
@@ -24,7 +24,7 @@ sap.ui.define([
 
 			// set i18n model
 			var i18nModel = new ResourceModel({
-				bundleName: "UI5FioriForTools.i18n.i18n"
+				bundleName: "DemoUXapp.i18n.i18n"
 			});
 			this.setModel(i18nModel, "i18n");
 		}

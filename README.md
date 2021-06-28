@@ -1,4 +1,4 @@
-# Empty UI5 prototype for tools
+# Empty openUI5 prototype for tools
 Prototype with tool header and side navigation, including only one main-navigation item.
 
 ## Fiori Design Guidelines
